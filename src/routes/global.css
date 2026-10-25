@@ -2,7 +2,7 @@
 @import '@fontsource/merriweather-sans/700.css';
 
 :root:has(body.dark) {
-	scrollbar-color: rgb(0 0 0 / 0.5) transparent;
+	scrollbar-color: #808080 transparent;
 }
 
 body {
